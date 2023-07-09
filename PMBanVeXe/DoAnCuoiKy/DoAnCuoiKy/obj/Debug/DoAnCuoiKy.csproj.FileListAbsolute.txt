@@ -1,0 +1,150 @@
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.AssemblyReference.cache
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.SuggestedBindingRedirects.cache
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form1.resources
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.cache
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+C:\congnghe.net\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form2.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.Cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.dll
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.pdb
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csprojResolveAssemblyReference.cache
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form1.resources
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form2.resources
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.MuaVe.resources
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.Cache
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.dll
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.pdb
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangNhap.resources
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangKyTK.resources
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QLLichXe.resources
+E:\LUUDULIEUSINHVIEN\2001207369_HuynhGiaThuan\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyLichXe.resources
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.dll
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.pdb
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.AssemblyReference.cache
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.SuggestedBindingRedirects.cache
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangKyTK.resources
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangNhap.resources
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form1.resources
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form2.resources
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.MuaVe.resources
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QLLichXe.resources
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyLichXe.resources
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.cache
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CopyComplete
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+C:\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.dll
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.pdb
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.AssemblyReference.cache
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.SuggestedBindingRedirects.cache
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangKyTK.resources
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangNhap.resources
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form2.resources
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.MuaVe.resources
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QLLichXe.resources
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyLichXe.resources
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.cache
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CopyComplete
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+G:\Dai Hoc\Cong Nghe .NET\May Quan\do an cuoi ky net\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Main_BanVeXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangKyTK.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangNhap.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Main_BanVeXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyChuyenXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.AssemblyReference.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.SuggestedBindingRedirects.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CopyComplete
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyBenXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyNhanVien.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\DoAnCuoiKy\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.dll
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.pdb
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.AssemblyReference.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.SuggestedBindingRedirects.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangKyTK.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangNhap.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Main_BanVeXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyBenXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyChuyenXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyNhanVien.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CopyComplete
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhosm6_Phần Mềm Bán vé xe khách\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.dll
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.pdb
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.AssemblyReference.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.SuggestedBindingRedirects.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangKyTK.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangNhap.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Main_BanVeXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyBenXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyChuyenXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyXe.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyNhanVien.resources
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CopyComplete
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+G:\Dai Hoc\Cong Nghe .NET\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe.config
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.exe
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DoAnCuoiKy.pdb
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.dll
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\bin\Debug\DTO.pdb
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.AssemblyReference.cache
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.SuggestedBindingRedirects.cache
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangKyTK.resources
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.DangNhap.resources
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Main_BanVeXe.resources
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Properties.Resources.resources
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyBenXe.resources
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyChuyenXe.resources
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyXe.resources
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.QuanLyNhanVien.resources
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.GenerateResource.cache
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CopyComplete
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+E:\Cong Nghe .NET\Lan 1\#DO AN CUOI KY\Nhom6_PhanMemBanVeXe_DeTai12\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.Form1.resources

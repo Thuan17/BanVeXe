@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b9bcc6b-1544-47bd-b0de-e1ed443e48b3": {
+      "ProjectGuid": "7b9bcc6b-1544-47bd-b0de-e1ed443e48b3",
+      "DisplayName": "DoAnCuoiKy",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "dcbb518e-69e4-4356-b485-96ef59eafaab": {
+      "ProjectGuid": "dcbb518e-69e4-4356-b485-96ef59eafaab",
+      "DisplayName": "DTO",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
